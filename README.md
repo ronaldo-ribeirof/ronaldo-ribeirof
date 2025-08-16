@@ -1,96 +1,60 @@
-# Olá, sou Ronaldo Ribeiro! 👋
+<h1 align="center">Olá, eu sou o Ronaldo Ribeiro! 👋</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=30A3DC&center=true&random=false&width=500&lines=Engenheiro+de+Software;Desenvolvedor+Web+e+Mobile" alt="Typing SVG" /></a>
+</p>
+
+---
 
 ### 👨‍💻 Sobre Mim
 
-[cite_start]Sou um Desenvolvedor de Software apaixonado por criar soluções web e mobile eficientes e bem estruturadas[cite: 8, 10]. [cite_start]Com uma base sólida em **Python** desde a graduação, tenho experiência em estruturas de dados, inteligência artificial e análise de dados[cite: 8].
-
-[cite_start]Minha jornada profissional inclui o desenvolvimento de projetos com **Java, React, Next.js, Tailwind e SQL** [cite: 9][cite_start], sempre aplicando metodologias ágeis como o SCRUM para garantir entregas de qualidade[cite: 9, 17]. [cite_start]Tive a oportunidade de liderar equipes e desenvolver projetos reais, o que aprimorou minhas habilidades de comunicação, colaboração e resolução de problemas[cite: 10, 16].
-
-- [cite_start]🎓 Cursando **Bacharelado em Sistemas de Informação** na Universidade Federal Rural de Pernambuco (UFRPE)[cite: 12].
-- [cite_start]💼 Experiência como **Analista de Projetos e Gerente Comercial** na [Seed a Bit Tecnologia](https://seedabit.com.br/) (empresa júnior)[cite: 14, 15].
-- [cite_start]🗣️ Português nativo [cite: 41][cite_start], Inglês intermediário-avançado (B2) [cite: 42] [cite_start]e Libras elementar[cite: 44].
-- 📍 Pernambuco, Brasil.
+<p align="center">
+[cite_start]Sou um desenvolvedor de software com foco em soluções web e mobile, tenho domínio em Python, adquirido na graduação, com experiência em estrutura de dados, inteligência artificial e análise de dados[cite: 8]. [cite_start]Também trabalho com tecnologias como Java, React, Next.js, Tailwind e SQL, aplicando metodologias ágeis[cite: 9]. [cite_start]Desenvolvi habilidades de liderança, comunicação e colaboração em equipe por meio da atuação em empresa júnior e projetos reais, sempre buscando entregar soluções eficientes e bem estruturadas[cite: 10].
+</p>
 
 ---
 
-### 🚀 Habilidades e Ferramentas
+<h2 align="center"> 🛠️ Habilidades e Ferramentas</h2>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-      <br>Supabase
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-</table>
+<h3 align="center">Frontend</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</div>
+
+<h3 align="center">Backend</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+</div>
+
+<h3 align="center">Ferramentas</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</div>
 
 ---
 
-### 💼 Experiência Profissional
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 
-**Analista de Projetos e Gerente Comercial** @ [Seed a Bit Tecnologia](https://seedabit.com.br/) (Jan. 2024 - Ago. [cite_start]2025) [cite: 15]
-
-- [cite_start]**Como Analista de Projetos:** 
-  - [cite_start]Desenvolvi sites responsivos e dinâmicos utilizando **Next.js, React e Tailwind CSS**.
-  - [cite_start]Participei do desenvolvimento de um projeto para a 77ª Reunião Anual da SBPC utilizando **Kotlin**.
-  - [cite_start]Utilizei ferramentas de design e prototipação como **Figma e Miro**.
-  - [cite_start]Trabalhei sob a metodologia ágil **SCRUM**, participando de todo o ciclo de vida do projeto.
-
-- [cite_start]**Como Analista e Gerente Comercial:** [cite: 16]
-  - [cite_start]Realizei gestão de vendas, análise de dados e condução de reuniões comerciais[cite: 16].
-  - [cite_start]Liderei a equipe comercial, desenvolvendo soft skills essenciais como trabalho em equipe, comunicação e resolução de problemas[cite: 16].
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-ribeirof&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&username=ronaldo-ribeirof&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
 ---
 
-### 📫 Como me encontrar
+<h2 align="center">🔌 Conecte-se comigo</h2>
 
-<a href="mailto:filhoronaldo.ribeiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://www.linkedin.com/in/ronaldo-ribeirof/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-![Ronaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldo-ribeirof&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+<div align="center">
+  <a href="mailto:filhoronaldo.ribeiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/ronaldo-ribeirof/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</div>
