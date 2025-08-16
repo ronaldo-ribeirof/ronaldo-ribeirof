@@ -1,19 +1,38 @@
 <h1 align="center">Olá, eu sou o Ronaldo Ribeiro! 👋</h1>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=30A3DC&center=true&random=false&width=500&lines=Engenheiro+de+Software;Desenvolvedor+Web+e+Mobile" alt="Typing SVG" /></a>
+<p align="center">Engenheiro de Software com foco em soluções web e mobile, apaixonado por tecnologia e resolução de problemas.</p>
+
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=ronaldo-ribeirof&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=ronaldo-ribeirof&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/></a>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-ribeirof&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/></a>
 </p>
+
+<p align='center'>
+   <b>Como me encontrar:</b><br>
+   <a href="https://www.linkedin.com/in/ronaldo-ribeirof/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="mailto:filhoronaldo.ribeiro@gmail.com">
+       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   </a>
+</p>
+
+### ✨ Sobre Mim
+<p>
+Sou um desenvolvedor de software focado em criar soluções web e mobile eficientes. Com uma base sólida em Python e Java, e experiência em tecnologias como React e Next.js, busco sempre aplicar as melhores práticas e metodologias ágeis. Minha atuação em projetos reais e na liderança de equipes em empresa júnior aprimorou minhas habilidades de comunicação e resolução de problemas.
+</p>
+
+### 🚀 Destaques
+* 🎓 Cursando **Sistemas de Informação** na Universidade Federal Rural de Pernambuco (UFRPE).
+* 💼 Experiência prática em desenvolvimento, liderança e gestão de projetos na empresa júnior **Seed a Bit**.
+* 💡 Domínio em **Python** para análise de dados e IA, e **Java** para desenvolvimento backend.
+* 👨‍💻 Conhecimento sólido em ecossistemas modernos de frontend com **React** e **Next.js**.
 
 ---
 
-### 👨‍💻 Sobre Mim
-
-<p align="center">
-[cite_start]Sou um desenvolvedor de software com foco em soluções web e mobile, tenho domínio em Python, adquirido na graduação, com experiência em estrutura de dados, inteligência artificial e análise de dados[cite: 8]. [cite_start]Também trabalho com tecnologias como Java, React, Next.js, Tailwind e SQL, aplicando metodologias ágeis[cite: 9]. [cite_start]Desenvolvi habilidades de liderança, comunicação e colaboração em equipe por meio da atuação em empresa júnior e projetos reais, sempre buscando entregar soluções eficientes e bem estruturadas[cite: 10].
-</p>
-
----
-
-<h2 align="center"> 🛠️ Habilidades e Ferramentas</h2>
+<h2 align="center">🛠️ Tecnologias</h2>
 
 <h3 align="center">Frontend</h3>
 <div align="center">
@@ -35,26 +54,18 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 </div>
 
-<h3 align="center">Ferramentas</h3>
+<h3 align="center">Ferramentas & Metodologias</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Scrum-78C1DE?style=for-the-badge" alt="Scrum"/>
 </div>
 
----
-
-<h2 align="center">📊 Estatísticas do GitHub</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-ribeirof&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&username=ronaldo-ribeirof&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
-<h2 align="center">🔌 Conecte-se comigo</h2>
-
-<div align="center">
-  <a href="mailto:filhoronaldo.ribeiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/ronaldo-ribeirof/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/ryo-ma/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=ronaldo-ribeirof&color=0077B5">
+   </a>
 </div>
