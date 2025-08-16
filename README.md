@@ -15,22 +15,22 @@
 <div id="-versão-em-português">
 
 ### **Bem-vindo ao meu perfil!**
-- Cursando **Bacharelado em Sistemas de Informação** na **UFRPE**
+- [cite_start]Cursando **Bacharelado em Sistemas de Informação** na **UFRPE** [cite: 12]
 - Sou de **Recife - PE, Brasil**
-- Experiência prática em desenvolvimento, liderança e gestão de projetos na empresa júnior **Seed a Bit**
-- Domínio em **Python** para desenvolvimento, análise de dados e IA, e **Java** para desenvolvimento de aplicações
-- Conhecimento sólido em ecossistemas modernos de frontend com **React** e **Next.js**
+- [cite_start]Experiência prática em desenvolvimento, liderança e gestão de projetos na empresa júnior **Seed a Bit** [cite: 15]
+- [cite_start]Domínio em **Python** para desenvolvimento, análise de dados e IA, e **Java** para desenvolvimento de aplicações [cite: 8, 9]
+- [cite_start]Conhecimento sólido em ecossistemas modernos de frontend com **React** e **Next.js** [cite: 9]
 
+<div align="center">
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="middle" align="center" width="60%">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-ribeirof&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
       <br>
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-ribeirof&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
     </td>
-    <td valign="top" width="40%">
-      <div align="center">
-        <br><br>
+    <td valign="middle" align="center" width="40%">
+      <div>
         <p style="font-size: 38px; color: #6b3e4d; font-weight: bold; margin-bottom: -10px;">❝</p>
         <i style="font-size: 16px; color: #333;">It’s not a bug; it’s an undocumented feature.</i>
         <p style="font-size: 38px; color: #6b3e4d; font-weight: bold; margin-top: -10px; text-align: right;">❞</p>
@@ -39,39 +39,17 @@
     </td>
   </tr>
 </table>
-
-<h2 align="center">Skills</h2>
-
-<h3 align="center">Frontend</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </div>
 
-<h3 align="center">Backend</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-</div>
+### Tech Stack
 
-<h3 align="center">Ferramentas & Metodologias</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Scrum-78C1DE?style=for-the-badge" alt="Scrum"/>
-</div>
+| Categoria | Tecnologias |
+| :---: | :--- |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=java,python" /> |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind" /> |
+| **Bancos de Dados & BaaS** | <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" /> |
+| **Controle de Versão** | <img src="https://skillicons.dev/icons?i=git,github" /> |
+| **Gestão & Design** | <img src="https://skillicons.dev/icons?i=jira,figma,notion" /> |
 
 <div align="center" style="margin-top: 40px; margin-bottom: 20px;">
   <hr>
@@ -95,22 +73,22 @@
 </div>
 
 ### **Welcome to my profile!**
-- Studying **Bachelor's in Information Systems** at **UFRPE**
+- [cite_start]Studying **Bachelor's in Information Systems** at **UFRPE** [cite: 12]
 - I'm from **Recife - PE, Brazil**
-- Practical experience in development, leadership, and project management at the junior enterprise **Seed a Bit**
-- Proficient in **Python** for development, data analysis, and AI, and **Java** for application development
-- Solid knowledge of modern frontend ecosystems with **React** and **Next.js**
+- [cite_start]Practical experience in development, leadership, and project management at the junior enterprise **Seed a Bit** [cite: 15]
+- [cite_start]Proficient in **Python** for development, data analysis, and AI, and **Java** for application development [cite: 8, 9]
+- [cite_start]Solid knowledge of modern frontend ecosystems with **React** and **Next.js** [cite: 9]
 
+<div align="center">
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="middle" align="center" width="60%">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-ribeirof&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
       <br>
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-ribeirof&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
     </td>
-    <td valign="top" width="40%">
-      <div align="center">
-        <br><br>
+    <td valign="middle" align="center" width="40%">
+      <div>
         <p style="font-size: 38px; color: #6b3e4d; font-weight: bold; margin-bottom: -10px;">❝</p>
         <i style="font-size: 16px; color: #333;">It’s not a bug; it’s an undocumented feature.</i>
         <p style="font-size: 38px; color: #6b3e4d; font-weight: bold; margin-top: -10px; text-align: right;">❞</p>
@@ -119,38 +97,18 @@
     </td>
   </tr>
 </table>
-
-<h2 align="center">Skills</h2>
-<h3 align="center">Frontend</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </div>
 
-<h3 align="center">Backend</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-</div>
+### Tech Stack
 
-<h3 align="center">Tools & Methodologies</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Scrum-78C1DE?style=for-the-badge" alt="Scrum"/>
-</div>
+| Category | Technologies |
+| :---: | :--- |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=java,python" /> |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind" /> |
+| **Databases & BaaS** | <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" /> |
+| **Version Control** | <img src="https://skillicons.dev/icons?i=git,github" /> |
+| **Management & Design** | <img src="https://skillicons.dev/icons?i=jira,figma,notion" /> |
+
 
 <div align="center" style="margin-top: 40px; margin-bottom: 20px;">
   <hr>
