@@ -15,11 +15,11 @@
 <div id="-versão-em-português">
 
 ### **Bem-vindo ao meu perfil!**
-- Cursando **Bacharelado em Sistemas de Informação** na **UFRPE** [cite: 12]
+- Cursando **Bacharelado em Sistemas de Informação** na **UFRPE**
 - Sou de **Recife - PE, Brasil**
-- [cite_start]Experiência prática em desenvolvimento, liderança e gestão de projetos na empresa júnior **Seed a Bit** [cite: 15]
-- [cite_start]Domínio em **Python** para desenvolvimento, análise de dados e IA, e **Java** para desenvolvimento de aplicações [cite: 8, 9, 29, 30]
-- [cite_start]Conhecimento sólido em ecossistemas modernos de frontend com **React** e **Next.js** [cite: 9, 17]
+- Experiência prática em desenvolvimento, liderança e gestão de projetos na empresa júnior **Seed a Bit**
+- Domínio em **Python** para desenvolvimento, análise de dados e IA, e **Java** para desenvolvimento de aplicações
+- Conhecimento sólido em ecossistemas modernos de frontend com **React** e **Next.js**
 
 <div align="center">
 <table>
@@ -65,7 +65,8 @@
   <tr>
     <td align="center"><strong>Bancos de Dados & BaaS</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=databricks&logoColor=white" alt="NoSQL"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
     </td>
@@ -111,11 +112,11 @@
 </div>
 
 ### **Welcome to my profile!**
-- [cite_start]Studying **Bachelor's in Information Systems** at **UFRPE** [cite: 12]
+- Studying **Bachelor's in Information Systems** at **UFRPE**
 - I'm from **Recife - PE, Brazil**
-- [cite_start]Practical experience in development, leadership, and project management at the junior enterprise **Seed a Bit** [cite: 15]
-- [cite_start]Proficient in **Python** for development, data analysis, and AI, and **Java** for application development [cite: 8, 9, 29, 30]
-- [cite_start]Solid knowledge of modern frontend ecosystems with **React** and **Next.js** [cite: 9, 17]
+- Practical experience in development, leadership, and project management at the junior enterprise **Seed a Bit**
+- Proficient in **Python** for development, data analysis, and AI, and **Java** for application development
+- Solid knowledge of modern frontend ecosystems with **React** and **Next.js**
 
 <div align="center">
 <table>
@@ -161,7 +162,8 @@
   <tr>
     <td align="center"><strong>Databases & BaaS</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=databricks&logoColor=white" alt="NoSQL"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
     </td>
