@@ -6,6 +6,10 @@
   </a>
 </div>
 
+<div align="center" style="padding: 20px;">
+  <a href="#-english-version">🇬🇧 View in English / Ver em Inglês</a>
+</div>
+
 <div id="-versão-em-português">
 
 ### **Bem-vindo ao meu perfil!**
@@ -96,11 +100,11 @@
 </div>
 </div>
 
-<details>
+<details id="-english-version">
 <summary>🇬🇧 View in English / Ver em Inglês</summary>
 <br>
 
-<div id="-english-version">
+<div>
 
 <div align="center" style="padding-top: 20px;">
   <a href="#-versão-em-português">⬆️ Voltar para Português / Back to Portuguese</a>
