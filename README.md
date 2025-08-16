@@ -1,8 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=180&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6b3e4d&height=180&section=header"/>
 
 <div align="center">
+  <h1 align="center">Olá, eu sou o Ronaldo Ribeiro! 👋</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=0077B5&center=true&random=false&width=500&lines=Bem-vindo+ao+meu+perfil!;Sinta-se+à+vontade+para+explorar" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=6b3e4d&center=true&random=false&width=500&lines=Sinta-se+a+vontade+para+explorar!+:%29;Desenvolvedor+Mobile/Web" alt="Typing SVG" />
   </a>
 </div>
 
@@ -147,10 +148,10 @@ I am a software developer focused on creating efficient web and mobile solutions
 
 </div>
 
-<div align="center" style="margin: 40px 0;">
+<div align="center" style="margin-top: 60px; margin-bottom: 40px;">
    <a href="https://github.com/ryo-ma/github-profile-views-counter">
-       <img src="https://komarev.com/ghpvc/?username=ronaldo-ribeirof&label=PROFILE+VIEWS&color=0077B5&style=flat-square" alt="Profile views" />
+       <img src="https://komarev.com/ghpvc/?username=ronaldo-ribeirof&label=PROFILE+VIEWS&color=6b3e4d&style=flat-square" alt="Profile views" />
    </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6b3e4d&height=120&section=footer"/>
