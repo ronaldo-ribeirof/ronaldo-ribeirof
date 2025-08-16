@@ -100,7 +100,7 @@
 </div>
 </div>
 
-<details id="-english-version">
+<div id="-english-version" style="margin-top: 60px;"></div>
 <summary>🇬🇧 View in English / Ver em Inglês</summary>
 <br>
 
