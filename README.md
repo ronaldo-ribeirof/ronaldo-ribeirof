@@ -15,24 +15,27 @@
 <div id="-versão-em-português">
 
 ### **Bem-vindo ao meu perfil!**
-- [cite_start]Cursando **Bacharelado em Sistemas de Informação** na **UFRPE** [cite: 12]
-- Eu sou de **Recife - PE, Brasil**
-- [cite_start]Experiência prática em desenvolvimento, liderança e gestão de projetos [cite: 10, 16]
+- Cursando **Bacharelado em Sistemas de Informação** na **UFRPE**
+- Sou de **Recife - PE, Brasil**
+- Experiência prática em desenvolvimento, liderança e gestão de projetos na empresa júnior **Seed a Bit**
+- Domínio em **Python** para desenvolvimento, análise de dados e IA, e **Java** para desenvolvimento de aplicações
+- Conhecimento sólido em ecossistemas modernos de frontend com **React** e **Next.js**
 
 <table>
   <tr>
-    <td valign="top" width="45%">
-      <br>
-      <blockquote>
-        <i style="color: #6b3e4d; font-size: 1.1em;">"It’s not a bug; it’s an undocumented feature."</i>
-        <br><br>
-        <b style="color: #6b3e4d;">― Anonymous</b>
-      </blockquote>
-    </td>
-    <td valign="top" width="55%">
+    <td valign="top" width="60%">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-ribeirof&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
       <br>
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-ribeirof&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
+    </td>
+    <td valign="top" width="40%">
+      <div align="center">
+        <br><br>
+        <p style="font-size: 38px; color: #6b3e4d; font-weight: bold; margin-bottom: -10px;">❝</p>
+        <i style="font-size: 16px; color: #333;">It’s not a bug; it’s an undocumented feature.</i>
+        <p style="font-size: 38px; color: #6b3e4d; font-weight: bold; margin-top: -10px; text-align: right;">❞</p>
+        <p style="color: #6b3e4d; font-weight: bold; margin-top: -10px; text-align: right;">― Anonymous</p>
+      </div>
     </td>
   </tr>
 </table>
@@ -69,6 +72,17 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   <img src="https://img.shields.io/badge/Scrum-78C1DE?style=for-the-badge" alt="Scrum"/>
 </div>
+
+<div align="center" style="margin-top: 40px; margin-bottom: 20px;">
+  <hr>
+  <h3>📫 Como me encontrar</h3>
+  <a href="https://www.linkedin.com/in/ronaldo-ribeirof/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="mailto:filhoronaldo.ribeiro@gmail.com">
+       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   </a>
+</div>
 </div>
 
 ---
@@ -81,24 +95,27 @@
 </div>
 
 ### **Welcome to my profile!**
-- [cite_start]Studying **Bachelor's in Information Systems** at **UFRPE** [cite: 12]
+- Studying **Bachelor's in Information Systems** at **UFRPE**
 - I'm from **Recife - PE, Brazil**
-- [cite_start]Practical experience in development, leadership, and project management [cite: 10, 16]
+- Practical experience in development, leadership, and project management at the junior enterprise **Seed a Bit**
+- Proficient in **Python** for development, data analysis, and AI, and **Java** for application development
+- Solid knowledge of modern frontend ecosystems with **React** and **Next.js**
 
 <table>
   <tr>
-    <td valign="top" width="45%">
-      <br>
-      <blockquote>
-        <i style="color: #6b3e4d; font-size: 1.1em;">"It’s not a bug; it’s an undocumented feature."</i>
-        <br><br>
-        <b style="color: #6b3e4d;">― Anonymous</b>
-      </blockquote>
-    </td>
-    <td valign="top" width="55%">
+    <td valign="top" width="60%">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-ribeirof&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
       <br>
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-ribeirof&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
+    </td>
+    <td valign="top" width="40%">
+      <div align="center">
+        <br><br>
+        <p style="font-size: 38px; color: #6b3e4d; font-weight: bold; margin-bottom: -10px;">❝</p>
+        <i style="font-size: 16px; color: #333;">It’s not a bug; it’s an undocumented feature.</i>
+        <p style="font-size: 38px; color: #6b3e4d; font-weight: bold; margin-top: -10px; text-align: right;">❞</p>
+        <p style="color: #6b3e4d; font-weight: bold; margin-top: -10px; text-align: right;">― Anonymous</p>
+      </div>
     </td>
   </tr>
 </table>
@@ -134,16 +151,17 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   <img src="https://img.shields.io/badge/Scrum-78C1DE?style=for-the-badge" alt="Scrum"/>
 </div>
-</div>
 
 <div align="center" style="margin-top: 40px; margin-bottom: 20px;">
-  <p><b>📫 Como me encontrar / How to reach me</b></p>
+  <hr>
+  <h3>📫 How to reach me</h3>
   <a href="https://www.linkedin.com/in/ronaldo-ribeirof/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="mailto:filhoronaldo.ribeiro@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </a>
+</div>
 </div>
 
 <div align="center" style="margin-bottom: 20px;">
