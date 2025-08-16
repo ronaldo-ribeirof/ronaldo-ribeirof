@@ -14,35 +14,30 @@
 
 <div id="-versão-em-português">
 
-### **Bem-vindo ao meu perfil!** 👨‍💻
-- 🌎 Eu sou de **Pernambuco, Brasil**
-- 🏫 Cursando **Bacharelado em Sistemas de Informação** na **UFRPE**
-- 💼 Experiência prática em desenvolvimento, liderança e gestão de projetos
+### **Bem-vindo ao meu perfil!**
+- [cite_start]Cursando **Bacharelado em Sistemas de Informação** na **UFRPE** [cite: 12]
+- Eu sou de **Recife - PE, Brasil**
+- [cite_start]Experiência prática em desenvolvimento, liderança e gestão de projetos [cite: 10, 16]
 
----
-
-### **📊 Github Stats**
 <table>
   <tr>
+    <td valign="top" width="45%">
+      <br>
+      <blockquote>
+        <i style="color: #6b3e4d; font-size: 1.1em;">"It’s not a bug; it’s an undocumented feature."</i>
+        <br><br>
+        <b style="color: #6b3e4d;">― Anonymous</b>
+      </blockquote>
+    </td>
     <td valign="top" width="55%">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-ribeirof&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
       <br>
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-ribeirof&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
     </td>
-    <td valign="top" width="45%">
-      <blockquote>
-        <i>"It’s not a bug; it’s an undocumented feature."</i>
-        <br>
-        <br>
-        <b>― Anonymous</b>
-      </blockquote>
-    </td>
   </tr>
 </table>
 
----
-
-<h2 align="center">🚀 Skills</h2>
+<h2 align="center">Skills</h2>
 
 <h3 align="center">Frontend</h3>
 <div align="center">
@@ -74,7 +69,6 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   <img src="https://img.shields.io/badge/Scrum-78C1DE?style=for-the-badge" alt="Scrum"/>
 </div>
-
 </div>
 
 ---
@@ -86,35 +80,30 @@
   <a href="#-versão-em-português">Ver em Português / View in Portuguese</a>
 </div>
 
-### **Welcome to my profile!** 👨‍💻
-- 🌎 I'm from **Pernambuco, Brazil**
-- 🏫 Studying **Bachelor's in Information Systems** at **UFRPE**
-- 💼 Practical experience in development, leadership, and project management
+### **Welcome to my profile!**
+- [cite_start]Studying **Bachelor's in Information Systems** at **UFRPE** [cite: 12]
+- I'm from **Recife - PE, Brazil**
+- [cite_start]Practical experience in development, leadership, and project management [cite: 10, 16]
 
----
-
-### **📊 Github Stats**
 <table>
   <tr>
+    <td valign="top" width="45%">
+      <br>
+      <blockquote>
+        <i style="color: #6b3e4d; font-size: 1.1em;">"It’s not a bug; it’s an undocumented feature."</i>
+        <br><br>
+        <b style="color: #6b3e4d;">― Anonymous</b>
+      </blockquote>
+    </td>
     <td valign="top" width="55%">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-ribeirof&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
       <br>
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-ribeirof&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
     </td>
-    <td valign="top" width="45%">
-      <blockquote>
-        <i>"It’s not a bug; it’s an undocumented feature."</i>
-        <br>
-        <br>
-        <b>― Anonymous</b>
-      </blockquote>
-    </td>
   </tr>
 </table>
 
----
-
-<h2 align="center">🚀 Skills</h2>
+<h2 align="center">Skills</h2>
 <h3 align="center">Frontend</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
