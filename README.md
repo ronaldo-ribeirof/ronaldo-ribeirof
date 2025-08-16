@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6b3e4d&height=180&section=header"/>
 
 <div align="center">
-  <h1 align="center">Olá, eu sou o Ronaldo Ribeiro! 👋</h1>
+  <h1 align="center">Olá, eu sou o Ronaldo Ribeiro!</h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=6b3e4d&center=true&random=false&width=500&lines=Sinta-se+a+vontade+para+explorar!+:%29;Desenvolvedor+Mobile/Web" alt="Typing SVG" />
   </a>
