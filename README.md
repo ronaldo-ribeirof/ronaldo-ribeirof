@@ -1,4 +1,4 @@
-# Olá, eu sou o Ronaldo Ribeiro! 👋
+# Olá, sou Ronaldo Ribeiro! 👋
 
 ### 👨‍💻 Sobre Mim
 
