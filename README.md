@@ -34,9 +34,9 @@
         <tr>
           <td align="center" style="padding: 15px;">
             <p style="font-size: 38px; color: #6b3e4d; font-weight: bold; margin-bottom: -10px; margin-top: 0;">❝</p>
-            <i style="font-size: 14px; color: #111;">It’s not a bug; it’s an undocumented feature.</i>
+            <i style="font-size: 14px; color: #111;">Everybody has to be able to participate in a future that they want to live for. That’s what technology can do.</i>
             <p style="font-size: 38px; color: #6b3e4d; font-weight: bold; margin-top: -10px; margin-bottom: 0; text-align: right;">❞</p>
-            <p style="color: #6b3e4d; font-weight: bold; margin-top: 0; margin-bottom: 0; text-align: right;">― Anonymous</p>
+            <p style="color: #6b3e4d; font-weight: bold; margin-top: 0; margin-bottom: 0; text-align: right;">― Dean Kamen</p>
           </td>
         </tr>
       </table>
