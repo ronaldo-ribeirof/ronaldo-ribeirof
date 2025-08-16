@@ -9,11 +9,11 @@
 <div id="-versão-em-português">
 
 ### **Bem-vindo ao meu perfil!**
-- [cite_start]Cursando **Bacharelado em Sistemas de Informação** na **UFRPE** [cite: 12]
+- Cursando **Bacharelado em Sistemas de Informação** na **UFRPE**
 - Sou de **Recife - PE, Brasil**
-- [cite_start]Experiência prática em desenvolvimento, liderança e gestão de projetos na empresa júnior **Seed a Bit** [cite: 10, 15]
-- [cite_start]Domínio em **Python** para desenvolvimento, análise de dados e IA, e **Java** para desenvolvimento de aplicações [cite: 8, 9]
-- [cite_start]Conhecimento sólido em ecossistemas modernos de frontend com **React** e **Next.js** [cite: 9]
+- Experiência prática em desenvolvimento, liderança e gestão de projetos na empresa júnior **Seed a Bit**
+- Domínio em **Python** para desenvolvimento, análise de dados e IA, e **Java** para desenvolvimento de aplicações
+- Conhecimento sólido em ecossistemas modernos de frontend com **React** e **Next.js**
 
 <div align="center">
 <table>
@@ -102,12 +102,16 @@
 
 <div id="-english-version">
 
+<div align="center" style="padding-top: 20px;">
+  <a href="#-versão-em-português">⬆️ Voltar para Português / Back to Portuguese</a>
+</div>
+
 ### **Welcome to my profile!**
-- [cite_start]Studying **Bachelor's in Information Systems** at **UFRPE** [cite: 12]
+- Studying **Bachelor's in Information Systems** at **UFRPE**
 - I'm from **Recife - PE, Brazil**
-- [cite_start]Practical experience in development, leadership, and project management at the junior enterprise **Seed a Bit** [cite: 10, 15]
-- [cite_start]Proficient in **Python** for development, data analysis, and AI, and **Java** for application development [cite: 8, 9]
-- [cite_start]Solid knowledge of modern frontend ecosystems with **React** and **Next.js** [cite: 9]
+- Practical experience in development, leadership, and project management at the junior enterprise **Seed a Bit**
+- Proficient in **Python** for development, data analysis, and AI, and **Java** for application development
+- Solid knowledge of modern frontend ecosystems with **React** and **Next.js**
 
 <div align="center">
 <table>
