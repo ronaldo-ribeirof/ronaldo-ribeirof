@@ -123,9 +123,9 @@
 <table>
   <tr>
     <td valign="middle" align="center" width="60%">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-ribeirof&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ronaldo-ribeirof&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula"/>
       <br>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-ribeirof&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo-ribeirof&layout=compact&hide_border=true&langs_count=8&theme=dracula"/>
     </td>
     <td valign="middle" align="center" width="40%">
       <blockquote>
