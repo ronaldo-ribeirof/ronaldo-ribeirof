@@ -12,7 +12,7 @@
 
 <div id="-versão-em-português">
 
-### **Bem-vindo ao meu perfil!**
+### **Bem-vindo(a) ao meu perfil!**
 - Cursando **Bacharelado em Sistemas de Informação** na **UFRPE**
 - Sou de **Recife - PE, Brasil**
 - Experiência prática em desenvolvimento, liderança e gestão de projetos na empresa júnior **Seed a Bit**
